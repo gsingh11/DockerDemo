@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.gopi.app</groupId>
   <artifactId>HelloWorld</artifactId>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
   <name>HelloWorld</name>
   <url>http://maven.apache.org</url>
